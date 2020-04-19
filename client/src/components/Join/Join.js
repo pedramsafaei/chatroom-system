@@ -10,12 +10,12 @@ const Join = () => {
 
   return (
     <div className="mainBody">
-      <div class="login">
-        <header class="header">
-          <span class="text">Login here</span>
-          <span class="loader"></span>
+      <div className="login">
+        <header className="header">
+          <span className="text">Login here</span>
+          <span className="loader"></span>
         </header>
-        <form class="form">
+        <form className="form">
           <input
             placeholder="Name"
             className="joinInput"
