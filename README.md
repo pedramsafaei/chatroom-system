@@ -1,4 +1,4 @@
-# Chillin Chat Application ![](client/public/Chill.png)
+# Chillin Chat Application ![Chillin](client/public/Chill.png)
 
 This is a simple chatroom application that is currently being developed for members of a private discord server to have another place to freely chat.
 
